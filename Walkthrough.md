@@ -2,6 +2,10 @@
 
 ## 1. Cleaned and Prepared data utilizing Microsoft Excel <br/>
 
-- Converted text to columns
+- Converted text to columns:
   
 ![bar plot](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/blob/main/images/TextToColumn.png)
+
+- Checked and removed duplicates:
+
+![bar plot](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/blob/main/images/RemoveDuplicates.png)

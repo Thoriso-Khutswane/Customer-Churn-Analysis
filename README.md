@@ -16,4 +16,4 @@ The goal of this project is to analyze customer data and uncover patterns behind
 
 🔄 Project Workflow (End-to-End)
 
-![bar plot]()
+![bar plot](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/blob/main/images/Project%20Workflow%20(End-to-End)2.png)

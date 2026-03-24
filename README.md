@@ -13,3 +13,7 @@ The company is steadily losing customers, which is causing revenue to drop and r
 ## 🎯 Project Objective
 
 The goal of this project is to analyze customer data and uncover patterns behind customer churn. By leveraging SQL, Excel, and Power BI, this project transforms raw data into actionable insights that support business decision-making.
+
+🔄 Project Workflow (End-to-End)
+
+![bar plot]()

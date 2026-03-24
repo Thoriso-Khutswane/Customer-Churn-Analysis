@@ -41,3 +41,47 @@ The table gave insights on which gender churns more
      ![bar plot](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/blob/main/images/FactTable.png)
 
   ![bar plot](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/blob/main/images/DimTables.png)
+
+
+    ## 3. Microsoft Power BI
+
+  - Imported data from sql server to Power BI:
+ 
+      ![bar plot](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/blob/main/images/LoadedDataFromsqlserverToPowerbi.png)
+
+  - Transformed Data:
+ 
+    Used first rows as headers
+
+   ![bar plot](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/blob/main/images/UsedFirstColumnsAsHeaders.png)
+  
+
+  - Created a measure to calculate Total Number Of Customers
+ 
+     ![bar plot](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/blob/main/images/TotalCustomers.png)
+
+
+    - Created a measure to calculate Churn Rate:
+   
+
+
+       ![bar plot](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/blob/main/images/ChurnRate.png)
+      
+      
+  - Created a measure to calculate Churned Customers:
+
+      ![bar plot](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/blob/main/images/ChurnedCustomer.png)
+ 
+    
+
+ - Created a measure to calculate (ARP)Average Revenue PerUser:
+       
+![bar plot](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/blob/main/images/AverageRevenuePerUser.png)
+
+
+ - Created a calculated column for specify tenure group:
+
+![bar plot](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/blob/main/images/TenureGroupCalculatedColumn.png)
+
+ 
+    

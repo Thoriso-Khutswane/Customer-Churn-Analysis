@@ -3,4 +3,5 @@
 ## 1. Cleaned and Prepared data utilizing Microsoft Excel <br/>
 
 - Converted text to columns
-![bar plot]()
+  
+![bar plot](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/blob/main/images/TextToColumn.png)

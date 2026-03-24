@@ -37,9 +37,11 @@ The dataset was cleaned and prepared using Excel:
 
 ## 🗄️ SQL Server Management Studio
 
-A structured data model was created using a star schema approach From the raw dataset that I downloaded from kaggle(WA_Fn-UseC_-Telco-Customer-Churn) I created three tables.
+A structured data model was developed using a star‑schema approach. Working from the raw dataset downloaded from Kaggle (WA_Fn‑UseC_-Telco‑Customer‑Churn), I transformed the data and created three analytical tables to support efficient reporting and analysis.
 
 - DimCustomer
+  
+👉 This stores descriptive info about customer
 
  ```sql
   CREATE TABLE DimCustomer (
@@ -49,12 +51,72 @@ A structured data model was created using a star schema approach From the raw da
       Partner VARCHAR(10),
       Dependents VARCHAR(10)
       );
+
 ```
 
-    
+
+✅ Inserted Data into Dimcustomer Table
+
+ ```sql
+   CREATE TABLE DimCustomer (
+    CustomerID VARCHAR(50),
+    Gender VARCHAR(10),
+    SeniorCitizen INT,
+    Partner VARCHAR(10),
+    Dependents VARCHAR(10)
+);
+
+ ```
 
 - DimContract
-- FactCustomerActivity
   
+👉 This stores contract-related info 
+
+ ```sql
+  CREATE TABLE DimContract (
+    CustomerID VARCHAR(50),
+    Contract VARCHAR(50),
+    PaymentMethod VARCHAR(50),
+    InternetService VARCHAR(50)
+);
+  ```
+
+✅ Inserted Data into DimContract Table
+
+ ```sql
+CREATE TABLE DimContract (
+    CustomerID VARCHAR(50),
+    Contract VARCHAR(50),
+    PaymentMethod VARCHAR(50),
+    InternetService VARCHAR(50)
+);
+ ```
+
+- Created FactCustomerActivity
+
+👉 This table holds measurable data
+
+```sql
+  CREATE TABLE FactCustomerActivity (
+    CustomerID VARCHAR(50),
+    MonthlyCharges FLOAT,
+    Tenure INT,
+    Churn VARCHAR(10)
+);
+  
+```
+
+✅ Inserted Data into Fact Table
+
+```sql
+INSERT INTO FactCustomerActivity (CustomerID, MonthlyCharges, Tenure, Churn)
+SELECT 
+    CustomerID,
+    MonthlyCharges,
+    tenure,
+    Churn
+FROM Customers;
+
+```
 
   

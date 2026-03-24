@@ -131,7 +131,7 @@ FROM Customers;
 
 The SQL database was connected to Power BI to build an interactive dashboard.
 
-Connected Power BI to SQL Server to extract vulnerability and asset inventory data for analysis. I followed a star-schema approach to model my data improving analytical performance and scalability.
+Connected Power BI to SQL Server to extract  data for analysis. I followed a star-schema approach to model my data improving analytical performance and scalability.
 
 - Star Schema Model:
   

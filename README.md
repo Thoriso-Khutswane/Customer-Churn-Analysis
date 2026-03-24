@@ -17,3 +17,14 @@ The goal of this project is to analyze customer data and uncover patterns behind
 ## 🔄 Project Workflow (End-to-End)
 
 ![bar plot](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/blob/main/images/Project%20Workflow%20(End-to-End)2.png)
+
+🧹 Data Preparation (Excel)
+
+The dataset was cleaned and prepared using Excel:
+
+- Checked and removed duplicates
+- Handled missing values
+- Standardized column formats
+- Created new features (e.g., Tenure Groups)
+- Performed exploratory analysis using Pivot Tables
+  

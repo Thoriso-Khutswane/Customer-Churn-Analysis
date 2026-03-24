@@ -37,4 +37,24 @@ The dataset was cleaned and prepared using Excel:
 
 ## 🗄️ SQL Server Management Studio
 
+A structured data model was created using a star schema approach From the raw dataset that I downloaded from kaggle(WA_Fn-UseC_-Telco-Customer-Churn) I created three tables.
+
+- DimCustomer
+
+ ```sql
+  CREATE TABLE DimCustomer (
+      CustomerID VARCHAR(50),
+      Gender VARCHAR(10),
+      SeniorCitizen INT,
+      Partner VARCHAR(10),
+      Dependents VARCHAR(10)
+      );
+```
+
+    
+
+- DimContract
+- FactCustomerActivity
+  
+
   

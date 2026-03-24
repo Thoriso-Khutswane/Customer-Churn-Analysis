@@ -119,4 +119,6 @@ FROM Customers;
 
 ```
 
+
+**This structure separates transactional data from descriptive attributes, improving analytical performance and scalability.**
   

@@ -4,7 +4,7 @@
 ## 🧠Industry :Telecommunications (Subscription-Based Services)
 
 ## 📌Overview
-This repository highlights my proficiency in Power BI, SQL, SSMS, and Excel, and demonstrates my ability to apply these tools effectively in conducting data analysis within the telecommunications sector, specifically for subscription‑based services.
+This repository showcases my skills in Power BI, SQL, SSMS, and Excel, and demonstrates my ability to apply these tools effectively in conducting data analysis within the telecommunications sector, specifically for subscription‑based services.
 
 ## 📌 Business Problem
 

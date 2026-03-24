@@ -28,7 +28,7 @@ The dataset was cleaned and prepared using Excel:
 - Standardized column formats
 - Performed exploratory analysis using Pivot Tables
   
-**Check walkthrough for details**
+**Check walkthrough for more details**
 
 - Clean Dataset:
 
@@ -125,7 +125,9 @@ FROM Customers;
 
 
 **This structure separates transactional data from descriptive attributes, improving analytical performance and scalability.**
-  
+
+    
+**Check walkthrough for more details**
 
 ## 📊 Power BI Dashboard
 
@@ -141,5 +143,6 @@ Connected Power BI to SQL Server to extract  data for analysis. I followed a sta
 
   ![bar plot](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/blob/main/images/ExecutiveOverview2.png)
   
-
+  
+**Check walkthrough for more details**
   

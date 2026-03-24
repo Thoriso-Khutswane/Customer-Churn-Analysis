@@ -18,7 +18,7 @@ The goal of this project is to analyze customer data and uncover patterns behind
 
 ![bar plot](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/blob/main/images/Project%20Workflow%20(End-to-End)2.png)
 
-🧹 Data Preparation (Excel)
+## 🧹 Data Preparation (Excel)
 
 The dataset was cleaned and prepared using Excel:
 
@@ -33,5 +33,8 @@ The dataset was cleaned and prepared using Excel:
 - Clean Dataset:
 
   ![bar plot](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/blob/main/images/CleanTable.png)
+
+
+## 🗄️ SQL Server Management Studio
 
   

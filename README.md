@@ -37,6 +37,10 @@ The dataset was cleaned and prepared using Excel:
 
 ## 🗄️ SQL Server Management Studio
 
+
+![bar plot](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/blob/main/images/SSMSLOADING.png)
+
+
 A structured data model was developed using a star‑schema approach. Working from the raw dataset downloaded from Kaggle (WA_Fn‑UseC_-Telco‑Customer‑Churn), I transformed the data and created three analytical tables to support efficient reporting and analysis.
 
 - Created a **DimCustomer** Table:
@@ -131,11 +135,11 @@ Connected Power BI to SQL Server to extract vulnerability and asset inventory da
 
 - Star Schema Model:
   
-  ![bar plot]()
+  ![bar plot](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/blob/main/images/ModelView%26Relationships.png)
 
 - Dashboard Overview:
 
-  ![bar plot]()
+  ![bar plot](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/blob/main/images/ExecutiveOverview2.png)
   
 
   

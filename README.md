@@ -122,3 +122,7 @@ FROM Customers;
 
 **This structure separates transactional data from descriptive attributes, improving analytical performance and scalability.**
   
+
+## 📊 Power BI Dashboard
+
+The SQL database was connected to Power BI to build an interactive dashboard.

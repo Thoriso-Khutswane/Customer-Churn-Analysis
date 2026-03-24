@@ -24,3 +24,7 @@ The table gave insights on which gender churns more
   - VLOOKUP
 
    ![bar plot](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/blob/main/images/VLOOKUPPROCESS.png)   
+
+
+   ## 2. SQL Server Management Studio
+   

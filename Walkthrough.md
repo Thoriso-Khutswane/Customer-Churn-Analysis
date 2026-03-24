@@ -27,4 +27,15 @@ The table gave insights on which gender churns more
 
 
    ## 2. SQL Server Management Studio
-   
+
+   - Created a database:
+
+  ![bar plot]()  
+
+  - Imported a flat file into the database:
+
+    ![bar plot]()
+
+- Created Tables & Imported data into the Tables:
+
+     ![bar plot]()

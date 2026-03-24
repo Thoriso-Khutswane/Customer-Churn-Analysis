@@ -39,7 +39,7 @@ The dataset was cleaned and prepared using Excel:
 
 A structured data model was developed using a star‑schema approach. Working from the raw dataset downloaded from Kaggle (WA_Fn‑UseC_-Telco‑Customer‑Churn), I transformed the data and created three analytical tables to support efficient reporting and analysis.
 
-- DimCustomer
+- Created a **DimCustomer** Table:
   
 👉 This stores descriptive info about customer
 
@@ -68,7 +68,7 @@ A structured data model was developed using a star‑schema approach. Working fr
 
  ```
 
-- DimContract
+- Created a **DimContract** Table:
   
 👉 This stores contract-related info 
 
@@ -92,7 +92,7 @@ CREATE TABLE DimContract (
 );
  ```
 
-- Created FactCustomerActivity
+- Created **FactCustomerActivity** Table:
 
 👉 This table holds measurable data
 

@@ -45,6 +45,13 @@ The table gave insights on which gender churns more
 
     ## 3. Microsoft Power BI
 
+  - Executive Overview:
+ 
+    ![bar plot](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/blob/main/images/ExecutiveOverview2.png)
+
+ **Model:**
+    ![bar plot](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/blob/main/images/ModelView%26Relationships.png)
+
   - Imported data from sql server to Power BI:
  
       ![bar plot](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/blob/main/images/LoadedDataFromsqlserverToPowerbi.png)
@@ -79,7 +86,7 @@ The table gave insights on which gender churns more
 ![bar plot](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/blob/main/images/AverageRevenuePerUser.png)
 
 
- - Created a calculated column for specify tenure group:
+ - Created a calculated column TO specify tenure group:
 
 ![bar plot](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/blob/main/images/TenureGroupCalculatedColumn.png)
 

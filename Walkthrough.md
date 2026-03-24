@@ -30,12 +30,14 @@ The table gave insights on which gender churns more
 
    - Created a database:
 
-  ![bar plot]()  
+  ![bar plot](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/blob/main/CreatedDatabase.png)  
 
   - Imported a flat file into the database:
 
-    ![bar plot]()
+    ![bar plot](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/blob/main/ImportProcess(2).png)
 
 - Created Tables & Imported data into the Tables:
 
-     ![bar plot]()
+     ![bar plot](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/blob/main/images/FactTable.png)
+
+  ![bar plot](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/blob/main/images/DimTables.png)

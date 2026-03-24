@@ -27,6 +27,11 @@ The dataset was cleaned and prepared using Excel:
 - Handled missing values
 - Standardized column formats
 - Performed exploratory analysis using Pivot Tables
-
+  
 **Check walkthrough for details**
+
+- Clean Dataset:
+
+  ![bar plot](https://github.com/Thoriso-Khutswane/Customer-Churn-Analysis/blob/main/images/CleanTable.png)
+
   

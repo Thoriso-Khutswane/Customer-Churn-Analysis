@@ -22,9 +22,20 @@ The goal of this project is to analyze customer data and uncover patterns behind
 
 The dataset was cleaned and prepared using Excel:
 
+- Converted Text To Cloumns:
+
+![bar plot]()
+
 - Checked and removed duplicates
+
+ ![bar plot]()
+ 
 - Handled missing values
+  ![bar plot]()
 - Standardized column formats
-- Created new features (e.g., Tenure Groups)
+
+  ![bar plot]()
 - Performed exploratory analysis using Pivot Tables
+
+  ![bar plot]()
   

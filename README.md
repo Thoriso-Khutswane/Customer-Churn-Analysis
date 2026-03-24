@@ -145,4 +145,32 @@ Connected Power BI to SQL Server to extract  data for analysis. I followed a sta
   
   
 **Check walkthrough for more details**
+
+
+
+## 📈 Key Insights
+
+- Customers on month-to-month contracts have significantly higher churn rates
+- Customers with shorter tenure are more likely to leave
+- Higher monthly charges are associated with increased churn
+
+ 
+## 💡 Business Recommendations
+- Encourage long-term contracts through incentives
+- Improve onboarding experience for new customers, or improve marketing strategies
+- Target high-risk customers with retention strategies(verify)
+
+## 📊 Project Impact
+
+This project provides a data-driven view of customer churn, enabling the business to identify high-risk customer segments. It helps quantify revenue loss and uncover key drivers of churn such as contract type and tenure.The insights generated support strategic decision-making to improve customer retention and maximize revenue.
+
+## ⚠️ Limitations
+
+- Dataset is static and not real-time
+- Limited behavioral and demographic features
+- Churn is treated as a binary outcome (Yes/No)
+  
+## 🧾 Conclusion
+
+This project demonstrates how end-to-end data analytics can be used to transform raw data into meaningful business insights. By combining Excel, SQL, and Power BI, the solution provides a scalable and effective approach to customer churn analysis.
   
